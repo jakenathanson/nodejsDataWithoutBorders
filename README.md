@@ -1,4 +1,3 @@
 # nodejsDataWithoutBorders
 Backend for Data Without Borders
-
-jakenathanson.com/dwb.html
+See the project [here](https://jakenathanson.com/dwb.html)
